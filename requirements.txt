@@ -1,0 +1,16 @@
+# Core dependencies for Burnout AI Binary Classification
+numpy>=1.24.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Web API (FastAPI)
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+
+# Data handling
+pandas>=2.0.0
+
+# Utilities
+python-multipart>=0.0.6
